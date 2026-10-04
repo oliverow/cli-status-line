@@ -1,0 +1,8 @@
+{
+  "name": "cli-status-line",
+  "description": "The cli-status-line mod: the Claude Code CLI status line as a band in the desktop app",
+  "owner": { "name": "Oliver Wang" },
+  "plugins": [
+    { "name": "cli-status-line", "source": "./" }
+  ]
+}

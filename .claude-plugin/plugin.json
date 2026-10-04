@@ -1,0 +1,10 @@
+{
+  "name": "cli-status-line",
+  "version": "0.1.0",
+  "description": "The Claude Code CLI status line (folder, git, model, context, prompt cache, GPUs, time and cost) as a band above the prompt in the desktop app, with a button to open the folder in VS Code",
+  "author": {
+    "name": "Oliver Wang"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
